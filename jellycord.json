@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/shayyz-code/jellycord/releases/download/v0.1.1/jellycord_windows_x86_64.zip",
+            "bin": [
+                "jellycord.exe"
+            ],
+            "hash": "1446546614e7c0cfe0ad80e1856af6eb1cad49b65ca63491d8ddfcae375754bc"
+        },
+        "arm64": {
+            "url": "https://github.com/shayyz-code/jellycord/releases/download/v0.1.1/jellycord_windows_arm64.zip",
+            "bin": [
+                "jellycord.exe"
+            ],
+            "hash": "3e4efe49ccf27327ad698c85b2cf699d63e58eadab0d31be61ec82f51a64bfcd"
+        }
+    },
+    "homepage": "https://github.com/shayyz-code/jellycord",
+    "license": "MIT",
+    "description": "CLI chat client for Jellycord"
+}
