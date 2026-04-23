@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shayyz-code/jellycord/releases/download/v0.1.5/jellycord_windows_x86_64.zip",
+            "url": "https://github.com/shayyz-code/jellycord/releases/download/v0.1.6/jellycord_windows_x86_64.zip",
             "bin": [
                 "jellycord.exe"
             ],
-            "hash": "23254ec11ec4d5aaf16fad486d5735d8890965b92770f96dceae66fa1a092910"
+            "hash": "4de61f497e8c4abc9682ab2e1ca8714ec255fb9302240d72bcda17e46f185c20"
         },
         "arm64": {
-            "url": "https://github.com/shayyz-code/jellycord/releases/download/v0.1.5/jellycord_windows_arm64.zip",
+            "url": "https://github.com/shayyz-code/jellycord/releases/download/v0.1.6/jellycord_windows_arm64.zip",
             "bin": [
                 "jellycord.exe"
             ],
-            "hash": "c5f3343b635f73fcd9b41eae513dcebe9c7bad25e52469c3f1dd9806142a9fa3"
+            "hash": "0611483eab031e2486be316f308f1dd08edd50c051786e71b9bae89b06f1b7b2"
         }
     },
     "homepage": "https://github.com/shayyz-code/jellycord",
